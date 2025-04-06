@@ -4,6 +4,11 @@ body{
 }
 
 body h1{
+    border-bottom: 100px solid #fff;
     font-size: x-large;
 }
 
+h1{
+    background-color: lawngreen;
+    border-bottom: 100px solid #fff;
+}
